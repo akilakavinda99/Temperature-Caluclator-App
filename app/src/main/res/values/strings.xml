@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureCal</string>
+    <string name="et_temp">Enter the Temperature</string>
+    <string name="rd_btn_F">Farenheit</string>
+    <string name="rd_btn_C">Celcius</string>
+    <string name="btn_calculate">Calculate</string>
+</resources>
